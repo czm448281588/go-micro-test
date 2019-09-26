@@ -1,8 +1,8 @@
 package basic
 
 import (
-	"czm/basic/config"
-	"czm/basic/db"
+	"github.com/czm448281588/go-micro-test/basic/config"
+	"github.com/czm448281588/go-micro-test/basic/db"
 )
 
 func Init() {

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"czm/basic/config"
+	"github.com/czm448281588/go-micro-test/basic/config"
 	"github.com/micro/go-micro/util/log"
 )
 

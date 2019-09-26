@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	proto "czm/user-srv/proto/user"
+	proto "github.com/czm448281588/go-micro-test/user-srv/proto/user"
 )
 
 var (

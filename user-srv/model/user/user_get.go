@@ -1,8 +1,8 @@
 package user
 
 import (
-	"czm/basic/db"
-	proto "czm/user-srv/proto/user"
+	"github.com/czm448281588/go-micro-test/basic/db"
+	proto "github.com/czm448281588/go-micro-test/user-srv/proto/user"
 	"github.com/micro/go-micro/util/log"
 )
 

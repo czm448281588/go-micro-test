@@ -3,8 +3,8 @@ package handler
 import (
 	"context"
 
-	us "czm/user-srv/model/user"
-	s "czm/user-srv/proto/user"
+	us "github.com/czm448281588/go-micro-test/user-srv/model/user"
+	s "github.com/czm448281588/go-micro-test/user-srv/proto/user"
 	"github.com/micro/go-micro/util/log"
 )
 

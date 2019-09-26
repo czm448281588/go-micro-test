@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"czm/basic"
-	"czm/basic/config"
-	"czm/user-srv/handler"
-	"czm/user-srv/model"
-	s "czm/user-srv/proto/user"
+	"github.com/czm448281588/go-micro-test/basic"
+	"github.com/czm448281588/go-micro-test/basic/config"
+	"github.com/czm448281588/go-micro-test/user-srv/handler"
+	"github.com/czm448281588/go-micro-test/user-srv/model"
+	s "github.com/czm448281588/go-micro-test/user-srv/proto/user"
 	"github.com/micro/cli"
 	"github.com/micro/go-micro"
 	"github.com/micro/go-micro/registry"
